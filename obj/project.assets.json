@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guilhem\\source\\repos\\oop-week2-carpark\\oop-week2-carpark.csproj",
+      "projectUniqueName": "C:\\Users\\Guilhem\\Documents\\EPITA\\VOYAGE\\CLASSES\\GIT\\oop_week2_carpark\\oop-week2-carpark.csproj",
       "projectName": "oop-week2-carpark",
-      "projectPath": "C:\\Users\\Guilhem\\source\\repos\\oop-week2-carpark\\oop-week2-carpark.csproj",
+      "projectPath": "C:\\Users\\Guilhem\\Documents\\EPITA\\VOYAGE\\CLASSES\\GIT\\oop_week2_carpark\\oop-week2-carpark.csproj",
       "packagesPath": "C:\\Users\\Guilhem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guilhem\\source\\repos\\oop-week2-carpark\\obj\\",
+      "outputPath": "C:\\Users\\Guilhem\\Documents\\EPITA\\VOYAGE\\CLASSES\\GIT\\oop_week2_carpark\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

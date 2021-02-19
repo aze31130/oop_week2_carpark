@@ -43,7 +43,7 @@ namespace oop_week2_carpark
             {
                 Console.WriteLine(customer);
             }
-            Console.WriteLine(Program.ANSI_GREEN + "Total Garage's incomes: " + Program.ANSI_RESET + totalIncome);
+            Console.WriteLine(Program.ANSI_GREEN + "Total " + name + "'s incomes: " + Program.ANSI_RESET + totalIncome);
         }
     }
 }

@@ -41,9 +41,10 @@ namespace oop_week2_carpark
                 //Park customers and update the price
                 foreach (Customer customer in garage.customers)
                 {
-                    if (customer.enteredHour == hours)
+                    if ((customer.enteredHour == hours) && (garage.availableSlots > 0))
                     {
                         customer.park();
+                        garage.availableSlots--;
                         Console.WriteLine("[" + ANSI_GREEN + "INFO"+ ANSI_RESET + "] " + customer.name + " just parked !");
                     }
                     
